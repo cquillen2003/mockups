@@ -1,0 +1,56 @@
+body {
+	background-color: #D8D8D8;
+}
+
+#submenu {
+	margin-bottom: 10px
+}
+
+#submenu a {
+	font-size: 16px;
+	font-weight: bold;
+	color: black;
+	text-decoration: underline;
+}
+
+.backlog {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.planned {
+	padding-left: 30px;
+	padding-right: 2px
+}
+
+.started {
+	padding-left: 2px;
+	padding-right: 2px
+}
+
+.done {
+	padding-left: 2px;
+	padding-right: 0;
+}
+
+.container-full-width {
+	padding: 0 25px;
+}
+
+.column {
+	height: 750px;
+	background-color: white;
+}
+
+.column-header {
+	height: 60px;
+	padding: 15px 0 0 15px;
+	background-color: white;
+	border-width: 0 0 2px 0;
+	border-style: solid;
+	border-color: #D8D8D8;
+}
+
+.column-header h2 {
+	margin: 0;
+}
