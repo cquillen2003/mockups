@@ -22,13 +22,13 @@ body {
 	border-bottom-left-radius: 0;
 }
 
-#submenu {
+.submenu {
 	height: 40px;
 	margin-top: 80px;
 	padding-left: 12px;
 }
 
-#submenu a {
+.submenu a {
 	font-size: 16px;
 	font-weight: bold;
 	color: black;
@@ -79,7 +79,7 @@ body {
 	padding: 0;
 	border-width: 0 2px 0 1px;
 	border-style: solid;
-	border-color: gray;
+	border-color: #A0A0A0;
 	background-color: #D8D8D8;
 }
 
