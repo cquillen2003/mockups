@@ -5,5 +5,8 @@ class PagesController < ApplicationController
 	
 	def sidebar
 	end
+
+	def plan_board
+	end
 	
 end
